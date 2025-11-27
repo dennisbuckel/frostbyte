@@ -1,0 +1,18 @@
+- ich möchte für unseren frostbyte Trackmania clan eine Webseite schaffen
+- die Webseite soll ein schönes ansprechendes einzigartiges design haben
+- ich möchte die Webseite hauptsächlich dafür nutzen um den "evi Cup" der jede Woche mittwoch stattfindet zu dokumentieren
+- der Cup hat verschiedenen spiueler
+- der Cup hat eine Rangliste
+- jeder spieler hat Punkte erhalten
+- der Cup wird auf eienr Map gefahren, die jeden Cup neu ist
+- auf dieser map hat ein spieler die beste zeit während des Cups gefahren
+- es gibt eine gesamtrangliste 
+- das eintragen der Ranglisten und Zeiten muss zunächst manuell erfolegn#
+- es muss also ein manuelles eintragungsverfahren gewählt werden
+- zB per admin rolle und formuklar oder per json data selbst geschrieben
+- das design soll total einfach sein und wirklich nur nötige sachen anzeigen
+- jeder Cup hat eine karte, die man klickbar zur detailansicht machen kann.
+- die karte zeigt die map die beste zeit und den winner
+- auf der Hauptseite wreden also nur diese karten angezeigt
+- jede karte besteht aus einbem Titelbild (die map)
+- 	

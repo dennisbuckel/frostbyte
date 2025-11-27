@@ -1,0 +1,128 @@
+{
+  "cups": [
+    {
+      "id": 1,
+      "date": "30.10.2024",
+      "winner": "MACDOUKEN",
+      "bestTime": "0:37.667",
+      "bestTimePlayer": "MACDOUKEN",
+      "image": "cup titelbilder/cup1.jpg",
+      "results": [
+        {"position": 1, "player": "MACDOUKEN", "clubTag": "BYT", "points": 1420, "status": "Winner"},
+        {"position": 2, "player": "HUEBSCH_AF", "clubTag": "WP", "points": 1420, "status": "Winner"},
+        {"position": 3, "player": "FAILLORDXD", "clubTag": "BYT", "points": 1420, "status": "Winner"},
+        {"position": 4, "player": "TEQAL-TM", "clubTag": "S WA", "points": 1390, "status": "Finalist"},
+        {"position": 5, "player": "BRATHERING_TM", "clubTag": "S WA", "points": 1370, "status": "Finalist"},
+        {"position": 6, "player": "CHRISHANX", "clubTag": "SLOW", "points": 1360, "status": "Finalist"},
+        {"position": 7, "player": "CONSPIRIA", "clubTag": "BYT", "points": 1310, "status": "Finalist"},
+        {"position": 8, "player": "DENNY_SIUS", "clubTag": "BYT", "points": 1180, "status": "Finalist"},
+        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "S WA", "points": 1070, "status": "Finalist"},
+        {"position": 10, "player": "TRIXICAT", "clubTag": "S WA", "points": 950, "status": "Finalist"}
+      ]
+    },
+    {
+      "id": 2,
+      "date": "06.11.2024",
+      "winner": "HUEBSCH_AF",
+      "bestTime": "0:45.101",
+      "bestTimePlayer": "HUEBSCH_AF",
+      "image": "cup titelbilder/cup2.jpg",
+      "results": [
+        {"position": 1, "player": "HUEBSCH_AF", "clubTag": "WP", "points": 1420, "status": "Winner"},
+        {"position": 2, "player": "TT-BASTI", "clubTag": "S WA", "points": 1420, "status": "Winner"},
+        {"position": 3, "player": "MACDOUKEN", "clubTag": "BYT", "points": 1420, "status": "Winner"},
+        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYT", "points": 1400, "status": "Finalist"},
+        {"position": 5, "player": "SAAIJROO", "clubTag": "S WA", "points": 1380, "status": "Finalist"},
+        {"position": 6, "player": "CONSPIRIA", "clubTag": "BYT", "points": 1360, "status": "Finalist"},
+        {"position": 7, "player": "TRIXICAT", "clubTag": "S WA", "points": 1180, "status": "Finalist"},
+        {"position": 8, "player": "BRATHERING_TM", "clubTag": "S WA", "points": 1010, "status": "Finalist"},
+        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "S WA", "points": 940, "status": "Finalist"},
+        {"position": 10, "player": "TEQAL-TM", "clubTag": "S WA", "points": 390, "status": "Finalist"}
+      ]
+    },
+    {
+      "id": 3,
+      "date": "13.11.2024",
+      "winner": "TORBEN.TM",
+      "bestTime": "0:50.894",
+      "bestTimePlayer": "TT-BASTI",
+      "image": "cup titelbilder/cup3.jpg",
+      "results": [
+        {"position": 1, "player": "TORBEN.TM", "clubTag": "S WA", "points": 1420, "status": "Winner"},
+        {"position": 2, "player": "REALEPIPHANY", "clubTag": "", "points": 1420, "status": "Winner"},
+        {"position": 3, "player": "TT-BASTI", "clubTag": "S WA", "points": 1420, "status": "Winner"},
+        {"position": 4, "player": "GOLDTIME.", "clubTag": "<@>", "points": 1390, "status": "Finalist"},
+        {"position": 5, "player": "BRATHERING_TM", "clubTag": "S WA", "points": 1320, "status": "Finalist"},
+        {"position": 6, "player": "DENNY_SIUS", "clubTag": "BYT", "points": 1200, "status": "Finalist"},
+        {"position": 7, "player": "MACDOUKEN", "clubTag": "BYT", "points": 1050, "status": "Finalist"},
+        {"position": 8, "player": "FAILLORDXD", "clubTag": "BYT", "points": 980, "status": "Finalist"},
+        {"position": 9, "player": "SAPIHR", "clubTag": "S1M", "points": 960, "status": "Finalist"},
+        {"position": 10, "player": "CONSPIRIA", "clubTag": "BYT", "points": 890, "status": "Finalist"}
+      ]
+    },
+    {
+      "id": 4,
+      "date": "20.11.2024",
+      "winner": "REALEPIPHANY",
+      "bestTime": "0:42.448",
+      "bestTimePlayer": "REALEPIPHANY",
+      "image": "cup titelbilder/cup4.jpg",
+      "results": [
+        {"position": 1, "player": "REALEPIPHANY", "clubTag": "", "points": 1420, "status": "Winner"},
+        {"position": 2, "player": "HUEBSCH_AF", "clubTag": "WP", "points": 1420, "status": "Winner"},
+        {"position": 3, "player": "CONSPIRIA", "clubTag": "BYT", "points": 1420, "status": "Winner"},
+        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYT", "points": 1380, "status": "Finalist"},
+        {"position": 5, "player": "BRATHERING_TM", "clubTag": "S WA", "points": 1350, "status": "Finalist"},
+        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYT", "points": 1300, "status": "Finalist"},
+        {"position": 7, "player": "JJURIJJ", "clubTag": "BYT", "points": 1100, "status": "Finalist"}
+      ]
+    },
+    {
+      "id": 5,
+      "date": "27.11.2024",
+      "winner": "ZERBREZLER2000",
+      "bestTime": "0:40.062",
+      "bestTimePlayer": "ZERBREZLER2000",
+      "image": "cup titelbilder/cup5.jpg",
+      "results": [
+        {"position": 1, "player": "ZERBREZLER2000", "clubTag": "BR3ZL", "points": 1420, "status": "Winner"},
+        {"position": 2, "player": "HUEBSCH_AF", "clubTag": "WP", "points": 1420, "status": "Winner"},
+        {"position": 3, "player": "TEQAL-TM", "clubTag": "S WA", "points": 1420, "status": "Winner"},
+        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYT", "points": 1380, "status": "Finalist"},
+        {"position": 5, "player": "CONSPIRIA", "clubTag": "BYT", "points": 1340, "status": "Finalist"},
+        {"position": 6, "player": "DENNY_SIUS", "clubTag": "BYT", "points": 1300, "status": "Finalist"},
+        {"position": 7, "player": "BRATHERING_TM", "clubTag": "S WA", "points": 1290, "status": "Finalist"},
+        {"position": 8, "player": "MACDOUKEN", "clubTag": "BYT", "points": 1280, "status": "Finalist"},
+        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "S WA", "points": 990, "status": "Finalist"}
+      ]
+    },
+    {
+      "id": 6,
+      "date": "04.12.2024",
+      "winner": "TBD",
+      "bestTime": "N/A",
+      "bestTimePlayer": "N/A",
+      "image": "cup titelbilder/cup6.jpg",
+      "results": []
+    },
+    {
+      "id": 7,
+      "date": "11.12.2024",
+      "winner": "REALEPIPHANY",
+      "bestTime": "0:43.938",
+      "bestTimePlayer": "REALEPIPHANY",
+      "image": "cup titelbilder/cup7.jpg",
+      "results": [
+        {"position": 1, "player": "REALEPIPHANY", "clubTag": "", "points": 1420, "status": "Winner"},
+        {"position": 2, "player": "ZERBREZLER2000", "clubTag": "BR3ZL", "points": 1420, "status": "Winner"},
+        {"position": 3, "player": "FRANKFURT.HBF", "clubTag": "cd", "points": 1420, "status": "Winner"},
+        {"position": 4, "player": "BRATHERING_TM", "clubTag": "S WA", "points": 1390, "status": "Finalist"},
+        {"position": 5, "player": "CONSPIRIA", "clubTag": "BYT", "points": 1310, "status": "Finalist"},
+        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYT", "points": 1180, "status": "Finalist"},
+        {"position": 7, "player": "DENNY_SIUS", "clubTag": "BYT", "points": 1120, "status": "Finalist"},
+        {"position": 8, "player": "FAILLORDXD", "clubTag": "BYT", "points": 1070, "status": "Finalist"},
+        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "S WA", "points": 780, "status": "Finalist"}
+      ]
+    }
+  ]
+}

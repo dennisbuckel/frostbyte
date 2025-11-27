@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FrostByte - Evi Cup</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-texture"></div>
+    
+    <!-- Header -->
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="clan-title">
+                <span class="frost">FROST</span><span class="byte">BYTE</span>
+            </h1>
+            <div class="subtitle">EVI CUP CHAMPIONS</div>
+        </div>
+    </header>
+
+    <!-- Cup Cards Container -->
+    <main class="cups-container">
+        <div class="cups-grid" id="cupsGrid">
+            <!-- Cup cards will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <!-- Cup Details Modal -->
+    <div id="cupModal" class="cup-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close-btn">&times;</span>
+                <h2 class="modal-title">
+                    <span class="cup-title-text">EVI CUP</span>
+                    <span class="cup-title-number">#1</span>
+                </h2>
+                <div class="modal-date">30.10.2024</div>
+            </div>
+            
+            <div class="modal-body">
+                <!-- Trackmania Style Podium -->
+                <div class="podium-section">
+                    <div class="podium-container">
+                        <div class="podium-bg-effects">
+                            <div class="speed-lines"></div>
+                            <div class="explosion-effect"></div>
+                        </div>
+                        
+                        <div class="podium">
+                            <!-- 2nd Place -->
+                            <div class="podium-place place-2">
+                                <div class="trophy-icon silver">🥈</div>
+                                <div class="player-card">
+                                    <div class="club-tag-badge">TT</div>
+                                    <div class="player-name">PLAYER2</div>
+                                    <div class="player-points">42 PTS</div>
+                                </div>
+                                <div class="podium-block silver-block">
+                                    <div class="podium-number">2</div>
+                                </div>
+                            </div>
+                            
+                            <!-- 1st Place -->
+                            <div class="podium-place place-1">
+                                <div class="trophy-icon gold">🏆</div>
+                                <div class="winner-crown">👑</div>
+                                <div class="player-card winner-card">
+                                    <div class="club-tag-badge">FB</div>
+                                    <div class="player-name">WINNER</div>
+                                    <div class="player-points">50 PTS</div>
+                                </div>
+                                <div class="podium-block gold-block">
+                                    <div class="podium-number">1</div>
+                                    <div class="winner-star">⭐</div>
+                                </div>
+                            </div>
+                            
+                            <!-- 3rd Place -->
+                            <div class="podium-place place-3">
+                                <div class="trophy-icon bronze">🥉</div>
+                                <div class="player-card">
+                                    <div class="club-tag-badge">RPG</div>
+                                    <div class="player-name">PLAYER3</div>
+                                    <div class="player-points">38 PTS</div>
+                                </div>
+                                <div class="podium-block bronze-block">
+                                    <div class="podium-number">3</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="confetti-container"></div>
+                    </div>
+                </div>
+                
+                <!-- Complete Results List -->
+                <div class="results-section">
+                    <h3 class="results-title">COMPLETE RESULTS</h3>
+                    <div class="results-list" id="resultsList">
+                        <!-- Results will be dynamically inserted here -->
+                    </div>
+                </div>
+                
+                <!-- Best Time Section -->
+                <div class="best-time-section">
+                    <div class="best-time-badge">
+                        <span class="best-time-label">⚡ FASTEST LAP</span>
+                        <span class="best-time-value">0:00.000</span>
+                        <span class="best-time-player">by PLAYER</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <p>TRACKMANIA CLAN SINCE 2024</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
