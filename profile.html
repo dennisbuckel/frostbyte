@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FrostByte - Spielerprofil</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="background-texture"></div>
+    
+    <!-- Header -->
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="clan-title">
+                <span class="frost">FROST</span><span class="byte">BYTE</span>
+            </h1>
+            <div class="subtitle">EVI CUP CHAMPIONS</div>
+            <nav class="main-nav">
+                <a href="index.html" class="nav-link">CUPS</a>
+                <a href="leaderboard.html" class="nav-link">LEADERBOARD</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Profile Container -->
+    <main class="profile-container">
+        <!-- Hero Section -->
+        <div class="profile-hero">
+            <div class="profile-hero-content">
+                <div class="profile-rank-badge" id="profileRankBadge">
+                    <span class="rank-number">#1</span>
+                </div>
+                <div class="profile-main-info">
+                    <div class="profile-club-tag" id="profileClubTag">BYT</div>
+                    <h1 class="profile-name" id="profileName">SPIELERNAME</h1>
+                    <div class="profile-title" id="profileTitle">CUP CHAMPION</div>
+                </div>
+                <div class="profile-quick-stats">
+                    <div class="quick-stat">
+                        <span class="quick-stat-value" id="quickWins">0</span>
+                        <span class="quick-stat-label">SIEGE</span>
+                    </div>
+                    <div class="quick-stat">
+                        <span class="quick-stat-value" id="quickPodiums">0</span>
+                        <span class="quick-stat-label">PODIUMS</span>
+                    </div>
+                    <div class="quick-stat">
+                        <span class="quick-stat-value" id="quickCups">0</span>
+                        <span class="quick-stat-label">CUPS</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Stats Cards -->
+        <div class="profile-stats-grid">
+            <div class="profile-stat-card gold-accent">
+                <div class="stat-card-icon">🏆</div>
+                <div class="stat-card-value" id="statTotalPoints">0</div>
+                <div class="stat-card-label">GESAMTPUNKTE</div>
+            </div>
+            <div class="profile-stat-card">
+                <div class="stat-card-icon">📊</div>
+                <div class="stat-card-value" id="statAvgPosition">0</div>
+                <div class="stat-card-label">Ø PLATZIERUNG</div>
+            </div>
+            <div class="profile-stat-card green-accent">
+                <div class="stat-card-icon">⬆️</div>
+                <div class="stat-card-value" id="statBestPosition">#0</div>
+                <div class="stat-card-label">BESTE PLATZIERUNG</div>
+            </div>
+            <div class="profile-stat-card red-accent">
+                <div class="stat-card-icon">⬇️</div>
+                <div class="stat-card-value" id="statWorstPosition">#0</div>
+                <div class="stat-card-label">SCHLECHTESTE</div>
+            </div>
+        </div>
+
+        <!-- Charts Section -->
+        <div class="profile-charts">
+            <div class="chart-container">
+                <h3 class="chart-title">📈 POSITIONSVERLAUF</h3>
+                <div class="chart-wrapper">
+                    <canvas id="positionChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-container">
+                <h3 class="chart-title">💰 PUNKTEVERLAUF</h3>
+                <div class="chart-wrapper">
+                    <canvas id="pointsChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Placement Distribution -->
+        <div class="profile-distribution">
+            <div class="distribution-container">
+                <h3 class="chart-title">🎯 PLATZIERUNGSVERTEILUNG</h3>
+                <div class="distribution-chart-wrapper">
+                    <canvas id="distributionChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Best Times Section -->
+        <div class="profile-best-times" id="bestTimesSection">
+            <h3 class="section-title">⚡ BESTE RUNDENZEITEN</h3>
+            <div class="best-times-grid" id="bestTimesGrid">
+                <!-- Best times will be inserted here -->
+            </div>
+        </div>
+
+        <!-- Cup History Timeline -->
+        <div class="profile-timeline">
+            <h3 class="section-title">🏁 CUP HISTORIE</h3>
+            <div class="timeline-container" id="cupTimeline">
+                <!-- Timeline items will be inserted here -->
+            </div>
+        </div>
+
+        <!-- Back Button -->
+        <div class="profile-back">
+            <a href="leaderboard.html" class="back-btn">← ZURÜCK ZUM LEADERBOARD</a>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <p>TRACKMANIA CLAN SINCE 2024</p>
+    </footer>
+
+    <script src="profile.js"></script>
+</body>
+</html>

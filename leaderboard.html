@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FrostByte - Leaderboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-texture"></div>
+    
+    <!-- Header -->
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="clan-title">
+                <span class="frost">FROST</span><span class="byte">BYTE</span>
+            </h1>
+            <div class="subtitle">EVI CUP CHAMPIONS</div>
+            <nav class="main-nav">
+                <a href="index.html" class="nav-link">CUPS</a>
+                <a href="leaderboard.html" class="nav-link active">LEADERBOARD</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Leaderboard Container -->
+    <main class="leaderboard-container">
+        <div class="leaderboard-header">
+            <h2 class="leaderboard-title">
+                <span class="title-icon">🏆</span>
+                GESAMTWERTUNG
+                <span class="title-icon">🏆</span>
+            </h2>
+            
+            <!-- Filter Section -->
+            <div class="filter-section">
+                <div class="search-box">
+                    <input type="text" id="playerSearch" placeholder="🔍 Spieler suchen..." class="search-input">
+                </div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-sort="totalPoints">PUNKTE</button>
+                    <button class="filter-btn" data-sort="wins">SIEGE</button>
+                    <button class="filter-btn" data-sort="cupsPlayed">CUPS</button>
+                    <button class="filter-btn" data-sort="podiums">PODIUMS</button>
+                    <button class="filter-btn" data-sort="avgPosition">Ø PLATZ</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Stats Overview -->
+        <div class="stats-overview">
+            <div class="stat-card">
+                <div class="stat-icon">👥</div>
+                <div class="stat-number" id="totalPlayers">0</div>
+                <div class="stat-label">SPIELER</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">🏁</div>
+                <div class="stat-number" id="totalCups">0</div>
+                <div class="stat-label">CUPS</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">⭐</div>
+                <div class="stat-number" id="totalPointsAll">0</div>
+                <div class="stat-label">GESAMTPUNKTE</div>
+            </div>
+        </div>
+
+        <!-- Leaderboard Table -->
+        <div class="leaderboard-table-container">
+            <table class="leaderboard-table">
+                <thead>
+                    <tr>
+                        <th class="th-rank">RANG</th>
+                        <th class="th-player">SPIELER</th>
+                        <th class="th-club">CLUB</th>
+                        <th class="th-points">PUNKTE</th>
+                        <th class="th-cups">CUPS</th>
+                        <th class="th-wins">SIEGE</th>
+                        <th class="th-podiums">PODIUMS</th>
+                        <th class="th-avg">Ø PLATZ</th>
+                    </tr>
+                </thead>
+                <tbody id="leaderboardBody">
+                    <!-- Data will be dynamically inserted here -->
+                </tbody>
+            </table>
+        </div>
+
+        <div class="loading" id="loadingIndicator">LOADING</div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <p>TRACKMANIA CLAN SINCE 2024</p>
+    </footer>
+
+    <script src="leaderboard.js"></script>
+</body>
+</html>
