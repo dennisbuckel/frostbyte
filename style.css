@@ -888,12 +888,11 @@ body {
     animation: trophyBounce 2s ease-in-out infinite;
 }
 
-/* Filter Section */
-.filter-section {
+/* Search Section */
+.search-section {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
 }
 
 .search-box {
@@ -1757,4 +1756,34 @@ body {
 /* Clickable Leaderboard Rows */
 .leaderboard-table tbody tr {
     cursor: pointer;
+}
+
+/* Sortable Table Headers - Simple Button Style */
+.sortable {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    transition: background 0.2s ease;
+}
+
+.sortable:hover {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.sortable:active {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+.sortable.active {
+    background: rgba(255, 210, 63, 0.25);
+}
+
+/* Sort Indicators - Simple */
+.sort-indicator {
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 1rem;
+    color: #FFD23F;
+    font-weight: bold;
+    vertical-align: middle;
 }

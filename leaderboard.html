@@ -18,7 +18,7 @@
             <h1 class="clan-title">
                 <span class="frost">FROST</span><span class="byte">BYTE</span>
             </h1>
-            <div class="subtitle">EVI CUP CHAMPIONS</div>
+            <div class="subtitle">420BYTES CUP CHAMPIONS</div>
             <nav class="main-nav">
                 <a href="index.html" class="nav-link">CUPS</a>
                 <a href="leaderboard.html" class="nav-link active">LEADERBOARD</a>
@@ -35,17 +35,10 @@
                 <span class="title-icon">🏆</span>
             </h2>
             
-            <!-- Filter Section -->
-            <div class="filter-section">
+            <!-- Search Section -->
+            <div class="search-section">
                 <div class="search-box">
                     <input type="text" id="playerSearch" placeholder="🔍 Spieler suchen..." class="search-input">
-                </div>
-                <div class="filter-buttons">
-                    <button class="filter-btn active" data-sort="totalPoints">PUNKTE</button>
-                    <button class="filter-btn" data-sort="wins">SIEGE</button>
-                    <button class="filter-btn" data-sort="cupsPlayed">CUPS</button>
-                    <button class="filter-btn" data-sort="podiums">PODIUMS</button>
-                    <button class="filter-btn" data-sort="avgPosition">Ø PLATZ</button>
                 </div>
             </div>
         </div>
@@ -75,13 +68,13 @@
                 <thead>
                     <tr>
                         <th class="th-rank">RANG</th>
-                        <th class="th-player">SPIELER</th>
-                        <th class="th-club">CLUB</th>
-                        <th class="th-points">PUNKTE</th>
-                        <th class="th-cups">CUPS</th>
-                        <th class="th-wins">SIEGE</th>
-                        <th class="th-podiums">PODIUMS</th>
-                        <th class="th-avg">Ø PLATZ</th>
+                        <th class="th-player sortable" data-sort="name">SPIELER <span class="sort-indicator"></span></th>
+                        <th class="th-club sortable" data-sort="clubTag">CLUB <span class="sort-indicator"></span></th>
+                        <th class="th-points sortable" data-sort="totalPoints">PUNKTE <span class="sort-indicator"></span></th>
+                        <th class="th-cups sortable" data-sort="cupsPlayed">CUPS <span class="sort-indicator"></span></th>
+                        <th class="th-wins sortable active desc" data-sort="wins">SIEGE <span class="sort-indicator">↓</span></th>
+                        <th class="th-podiums sortable" data-sort="podiums">PODIUMS <span class="sort-indicator"></span></th>
+                        <th class="th-avg sortable" data-sort="avgPosition">Ø PLATZ <span class="sort-indicator"></span></th>
                     </tr>
                 </thead>
                 <tbody id="leaderboardBody">

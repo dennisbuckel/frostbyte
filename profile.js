@@ -337,7 +337,7 @@ function renderCupTimeline() {
                 </div>
                 <div class="timeline-content">
                     <div class="timeline-header">
-                        <span class="timeline-cup">EVI CUP #${cup.cupId}</span>
+                        <span class="timeline-cup">420BYTES CUP #${cup.cupId}</span>
                         <span class="timeline-date">${cupInfo ? cupInfo.date : ''}</span>
                     </div>
                     <div class="timeline-stats">

@@ -55,7 +55,7 @@ function createCupCard(cup, isNewest) {
     card.innerHTML = `
         <img src="${cup.image}" alt="Cup ${cup.id}" class="cup-image" onerror="this.style.backgroundColor='#333'; this.style.objectFit='contain'; this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22 viewBox=%220 0 100 100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22%23333%22/%3E%3Ctext x=%2250%22 y=%2250%22 font-family=%22Arial%22 font-size=%2214%22 fill=%22%23666%22 text-anchor=%22middle%22 dominant-baseline=%22middle%22%3ENo Image%3C/text%3E%3C/svg%3E'">
         <div class="cup-info">
-            <div class="cup-number">EVI CUP #${cup.id}</div>
+            <div class="cup-number">420BYTES CUP #${cup.id}</div>
             <div class="cup-date">${formattedDate}</div>
             <div class="cup-stats">
                 <div class="winner-info">

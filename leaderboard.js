@@ -1,6 +1,6 @@
 // Leaderboard Data and State
 let playersData = null;
-let currentSort = 'totalPoints';
+let currentSort = 'wins';
 let currentOrder = 'desc';
 let searchTerm = '';
 
@@ -46,10 +46,10 @@ function updateStats() {
 
 // Setup Event Listeners
 function setupEventListeners() {
-    // Filter Buttons
-    document.querySelectorAll('.filter-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const sortBy = btn.dataset.sort;
+    // Sortable Table Headers
+    document.querySelectorAll('.sortable').forEach(header => {
+        header.addEventListener('click', () => {
+            const sortBy = header.dataset.sort;
             
             // Toggle order if same sort field
             if (currentSort === sortBy) {
@@ -60,10 +60,10 @@ function setupEventListeners() {
                 currentOrder = sortBy === 'avgPosition' ? 'asc' : 'desc';
             }
             
-            // Update active button
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
+            // Update visual indicators
+            updateSortIndicators();
             
+            // Render
             renderLeaderboard();
         });
     });
@@ -73,6 +73,20 @@ function setupEventListeners() {
     searchInput.addEventListener('input', (e) => {
         searchTerm = e.target.value.toLowerCase();
         renderLeaderboard();
+    });
+}
+
+// Update Sort Indicators
+function updateSortIndicators() {
+    document.querySelectorAll('.sortable').forEach(header => {
+        header.classList.remove('active', 'asc', 'desc');
+        const indicator = header.querySelector('.sort-indicator');
+        indicator.textContent = '';
+        
+        if (header.dataset.sort === currentSort) {
+            header.classList.add('active', currentOrder);
+            indicator.textContent = currentOrder === 'desc' ? '↓' : '↑';
+        }
     });
 }
 
@@ -92,9 +106,31 @@ function getSortedPlayers() {
     
     // Sort players
     players.sort((a, b) => {
-        let valueA = a.stats[currentSort];
-        let valueB = b.stats[currentSort];
+        let valueA, valueB;
         
+        // Check if sorting by name or clubTag (string values)
+        if (currentSort === 'name') {
+            valueA = a.name.toLowerCase();
+            valueB = b.name.toLowerCase();
+        } else if (currentSort === 'clubTag') {
+            valueA = a.clubTag || '';
+            valueB = b.clubTag || '';
+        } else {
+            // Numeric values from stats
+            valueA = a.stats[currentSort];
+            valueB = b.stats[currentSort];
+        }
+        
+        // String comparison
+        if (typeof valueA === 'string' && typeof valueB === 'string') {
+            if (currentOrder === 'desc') {
+                return valueB.localeCompare(valueA, 'de-DE');
+            } else {
+                return valueA.localeCompare(valueB, 'de-DE');
+            }
+        }
+        
+        // Numeric comparison
         if (currentOrder === 'desc') {
             return valueB - valueA;
         } else {
@@ -167,3 +203,4 @@ function getRankBadgeClass(rank) {
     if (rank === 3) return 'bronze';
     return 'normal';
 }
+        
