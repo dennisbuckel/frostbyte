@@ -1,3 +1,140 @@
+// Easter Egg: Click FROST 5 times to access admin panel
+let frostClickCount = 0;
+let frostClickTimer = null;
+
+function initEasterEgg() {
+    const frostSpan = document.querySelector('.frost');
+    if (frostSpan) {
+        frostSpan.style.cursor = 'pointer';
+        frostSpan.addEventListener('click', handleFrostClick);
+    }
+}
+
+function handleFrostClick(e) {
+    e.stopPropagation();
+    frostClickCount++;
+    
+    // Reset counter after 2 seconds of inactivity
+    clearTimeout(frostClickTimer);
+    frostClickTimer = setTimeout(() => {
+        frostClickCount = 0;
+    }, 2000);
+    
+    // Visual feedback
+    const frost = e.target;
+    frost.style.transform = 'scale(1.1)';
+    frost.style.textShadow = '0 0 20px #00ffff, 0 0 40px #00ffff';
+    setTimeout(() => {
+        frost.style.transform = '';
+        frost.style.textShadow = '';
+    }, 150);
+    
+    // Check if 5 clicks reached
+    if (frostClickCount >= 5) {
+        frostClickCount = 0;
+        showVaultAccess();
+    }
+}
+
+function showVaultAccess() {
+    // Create overlay
+    const overlay = document.createElement('div');
+    overlay.style.cssText = `
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.95);
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        animation: fadeIn 0.3s ease;
+    `;
+    
+    overlay.innerHTML = `
+        <style>
+            @keyframes glitch {
+                0%, 100% { transform: translate(0); }
+                20% { transform: translate(-2px, 2px); }
+                40% { transform: translate(2px, -2px); }
+                60% { transform: translate(-2px, -2px); }
+                80% { transform: translate(2px, 2px); }
+            }
+            @keyframes typing {
+                from { width: 0; }
+                to { width: 100%; }
+            }
+            @keyframes blink {
+                50% { border-color: transparent; }
+            }
+            .vault-text {
+                font-family: 'Bebas Neue', sans-serif;
+                font-size: 4rem;
+                color: #FFD23F;
+                text-shadow: 0 0 30px #FFD23F, 3px 3px 0 #000;
+                animation: glitch 0.5s ease-in-out infinite;
+                margin-bottom: 20px;
+            }
+            .access-text {
+                font-family: 'Courier New', monospace;
+                font-size: 1.2rem;
+                color: #00ff00;
+                overflow: hidden;
+                white-space: nowrap;
+                border-right: 3px solid #00ff00;
+                animation: typing 1.5s steps(30) 0.5s forwards, blink 0.7s step-end infinite;
+                width: 0;
+                margin-bottom: 30px;
+            }
+            .enter-btn {
+                background: linear-gradient(135deg, #FF6B35 0%, #FFD23F 100%);
+                border: none;
+                color: #000;
+                padding: 15px 40px;
+                font-family: 'Bebas Neue', sans-serif;
+                font-size: 1.5rem;
+                letter-spacing: 3px;
+                cursor: pointer;
+                transition: all 0.3s ease;
+                opacity: 0;
+                animation: fadeIn 0.5s ease 2s forwards;
+            }
+            .enter-btn:hover {
+                transform: scale(1.1);
+                box-shadow: 0 0 30px rgba(255, 107, 53, 0.6);
+            }
+            @keyframes fadeIn {
+                from { opacity: 0; }
+                to { opacity: 1; }
+            }
+        </style>
+        <div class="vault-text">⚡ VAULT DISCOVERED ⚡</div>
+        <div class="access-text">> Accessing secret terminal...</div>
+        <button class="enter-btn" onclick="window.location.href='admin.html'">ENTER VAULT</button>
+    `;
+    
+    document.body.appendChild(overlay);
+    
+    // Close on escape
+    const closeHandler = (e) => {
+        if (e.key === 'Escape') {
+            overlay.remove();
+            document.removeEventListener('keydown', closeHandler);
+        }
+    };
+    document.addEventListener('keydown', closeHandler);
+    
+    // Close on click outside button
+    overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) {
+            overlay.remove();
+        }
+    });
+}
+
 // Load and display cup data
 async function loadCups() {
     const cupsGrid = document.getElementById('cupsGrid');
@@ -249,6 +386,7 @@ function createConfetti() {
 // Initialize when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     loadCups();
+    initEasterEgg(); // Initialize Easter Egg (5x click on FROST)
     
     // Setup modal close button
     const closeBtn = document.querySelector('.close-btn');

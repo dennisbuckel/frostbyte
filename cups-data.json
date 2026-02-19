@@ -11,13 +11,13 @@
         {"position": 1, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "TEQAL-TM", "clubTag": "STWA", "points": 1390, "status": "Finalist"},
-        {"position": 5, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1370, "status": "Finalist"},
-        {"position": 6, "player": "CHRISHANX", "clubTag": "BYTE", "points": 1360, "status": "Finalist"},
-        {"position": 7, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1310, "status": "Finalist"},
-        {"position": 8, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1180, "status": "Finalist"},
-        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 1070, "status": "Finalist"},
-        {"position": 10, "player": "TRIXICAT", "clubTag": "STWA", "points": 950, "status": "Finalist"}
+        {"position": 4, "player": "TEQAL-TM", "clubTag": "STWA", "points": 1390, "status": ""},
+        {"position": 5, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1370, "status": ""},
+        {"position": 6, "player": "CHRISHANX", "clubTag": "BYTE", "points": 1360, "status": ""},
+        {"position": 7, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1310, "status": ""},
+        {"position": 8, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1180, "status": ""},
+        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 1070, "status": ""},
+        {"position": 10, "player": "TRIXICAT", "clubTag": "STWA", "points": 950, "status": ""}
       ]
     },
     {
@@ -31,13 +31,13 @@
         {"position": 1, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "TT-BASTI", "clubTag": "STWA", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1400, "status": "Finalist"},
-        {"position": 5, "player": "SAAIJROO", "clubTag": "STWA", "points": 1380, "status": "Finalist"},
-        {"position": 6, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1360, "status": "Finalist"},
-        {"position": 7, "player": "TRIXICAT", "clubTag": "STWA", "points": 1180, "status": "Finalist"},
-        {"position": 8, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1010, "status": "Finalist"},
-        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 940, "status": "Finalist"},
-        {"position": 10, "player": "TEQAL-TM", "clubTag": "STWA", "points": 390, "status": "Finalist"}
+        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1400, "status": ""},
+        {"position": 5, "player": "SAAIJROO", "clubTag": "STWA", "points": 1380, "status": ""},
+        {"position": 6, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1360, "status": ""},
+        {"position": 7, "player": "TRIXICAT", "clubTag": "STWA", "points": 1180, "status": ""},
+        {"position": 8, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1010, "status": ""},
+        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 940, "status": ""},
+        {"position": 10, "player": "TEQAL-TM", "clubTag": "STWA", "points": 390, "status": ""}
       ]
     },
     {
@@ -51,13 +51,13 @@
         {"position": 1, "player": "TORBEN.TM", "clubTag": "STWA", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "REALEPIPHANY", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "TT-BASTI", "clubTag": "STWA", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "GOLDTIME.", "clubTag": "BYTE", "points": 1390, "status": "Finalist"},
-        {"position": 5, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1320, "status": "Finalist"},
-        {"position": 6, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1200, "status": "Finalist"},
-        {"position": 7, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1050, "status": "Finalist"},
-        {"position": 8, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 980, "status": "Finalist"},
-        {"position": 9, "player": "SAPIHR", "clubTag": "BYTE", "points": 960, "status": "Finalist"},
-        {"position": 10, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 890, "status": "Finalist"}
+        {"position": 4, "player": "GOLDTIME.", "clubTag": "BYTE", "points": 1390, "status": ""},
+        {"position": 5, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1320, "status": ""},
+        {"position": 6, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1200, "status": ""},
+        {"position": 7, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1050, "status": ""},
+        {"position": 8, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 980, "status": ""},
+        {"position": 9, "player": "SAPIHR", "clubTag": "BYTE", "points": 960, "status": ""},
+        {"position": 10, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 890, "status": ""}
       ]
     },
     {
@@ -71,10 +71,10 @@
         {"position": 1, "player": "REALEPIPHANY", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1380, "status": "Finalist"},
-        {"position": 5, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1350, "status": "Finalist"},
-        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1300, "status": "Finalist"},
-        {"position": 7, "player": "JJURIJJ", "clubTag": "BYTE", "points": 1100, "status": "Finalist"}
+        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1380, "status": ""},
+        {"position": 5, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1350, "status": ""},
+        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1300, "status": ""},
+        {"position": 7, "player": "JJURIJJ", "clubTag": "BYTE", "points": 1100, "status": ""}
       ]
     },
     {
@@ -88,12 +88,12 @@
         {"position": 1, "player": "ZERBREZLER2000", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "TEQAL-TM", "clubTag": "STWA", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1380, "status": "Finalist"},
-        {"position": 5, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1340, "status": "Finalist"},
-        {"position": 6, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1300, "status": "Finalist"},
-        {"position": 7, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1290, "status": "Finalist"},
-        {"position": 8, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1280, "status": "Finalist"},
-        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 990, "status": "Finalist"}
+        {"position": 4, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1380, "status": ""},
+        {"position": 5, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1340, "status": ""},
+        {"position": 6, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1300, "status": ""},
+        {"position": 7, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1290, "status": ""},
+        {"position": 8, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1280, "status": ""},
+        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 990, "status": ""}
       ]
     },
     {
@@ -116,12 +116,12 @@
         {"position": 1, "player": "REALEPIPHANY", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "ZERBREZLER2000", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "FRANKFURT.HBF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1390, "status": "Finalist"},
-        {"position": 5, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1310, "status": "Finalist"},
-        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1180, "status": "Finalist"},
-        {"position": 7, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1120, "status": "Finalist"},
-        {"position": 8, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1070, "status": "Finalist"},
-        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 780, "status": "Finalist"}
+        {"position": 4, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1390, "status": ""},
+        {"position": 5, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1310, "status": ""},
+        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1180, "status": ""},
+        {"position": 7, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1120, "status": ""},
+        {"position": 8, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1070, "status": ""},
+        {"position": 9, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 780, "status": ""}
       ]
     },
     {
@@ -135,11 +135,11 @@
         {"position": 1, "player": "TEQAL-TM", "clubTag": "STWA", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "REALEPIPHANY", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "FFM.069.CHOOO", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1400, "status": "Finalist"},
-        {"position": 5, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1380, "status": "Finalist"},
-        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1380, "status": "Finalist"},
-        {"position": 7, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 1270, "status": "Finalist"},
-        {"position": 8, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1190, "status": "Finalist"}
+        {"position": 4, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1400, "status": ""},
+        {"position": 5, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1380, "status": ""},
+        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1380, "status": ""},
+        {"position": 7, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 1270, "status": ""},
+        {"position": 8, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1190, "status": ""}
       ]
     },
     {
@@ -153,12 +153,11 @@
         {"position": 1, "player": "FFM.069.CHOOO", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
-        {"position": 5, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1150, "status": "Finalist"},
-        {"position": 6, "player": "TRIXICAT", "clubTag": "STWA", "points": 1070, "status": "Finalist"},
-        {"position": 7, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 930, "status": "Finalist"},
-        {"position": 8, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 770, "status": "Finalist"},
-        {"position": 9, "player": "EVI_420", "clubTag": "BYTE", "points": 0, "status": "Finalist"}
+        {"position": 4, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Finalist"},
+        {"position": 5, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1150, "status": ""},
+        {"position": 6, "player": "TRIXICAT", "clubTag": "STWA", "points": 1070, "status": ""},
+        {"position": 7, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 930, "status": ""},
+        {"position": 8, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 770, "status": ""}
       ]
     },
     {
@@ -174,9 +173,8 @@
         {"position": 3, "player": "FRANKFURT.HBF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 4, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1420, "status": "Finalist"},
         {"position": 5, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1420, "status": "Finalist"},
-        {"position": 6, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1190, "status": "Finalist"},
-        {"position": 7, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 900, "status": "Finalist"},
-        {"position": 8, "player": "EVI_420", "clubTag": "BYTE", "points": 0, "status": "Finalist"}
+        {"position": 6, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1190, "status": ""},
+        {"position": 7, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 900, "status": ""}
       ]
     },
     {
@@ -190,12 +188,12 @@
         {"position": 1, "player": "FRANKFURT.HBF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 2, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
-        {"position": 4, "player": "JJURIJJ", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
+        {"position": 4, "player": "JJURIJJ", "clubTag": "BYTE", "points": 1420, "status": "Finalist"},
         {"position": 5, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1420, "status": "Finalist"},
         {"position": 6, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1420, "status": "Finalist"},
-        {"position": 7, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1280, "status": "Finalist"},
-        {"position": 8, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 830, "status": "Finalist"},
-        {"position": 9, "player": "MC_DELLA", "clubTag": "BYTE", "points": 440, "status": "Finalist"}
+        {"position": 7, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1280, "status": ""},
+        {"position": 8, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 830, "status": ""},
+        {"position": 9, "player": "MC_DELLA", "clubTag": "BYTE", "points": 440, "status": ""}
       ]
     },
     {
@@ -210,11 +208,10 @@
         {"position": 2, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "FRANKFURT.HBF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 4, "player": "EVI_420", "clubTag": "BYTE", "points": 1420, "status": "Finalist"},
-        {"position": 5, "player": "SAAIJROO", "clubTag": "STWA", "points": 1350, "status": "Finalist"},
-        {"position": 6, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1210, "status": "Finalist"},
-        {"position": 7, "player": "MC_DELLA", "clubTag": "BYTE", "points": 470, "status": "Finalist"},
-        {"position": 8, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 460, "status": "Finalist"},
-        {"position": 9, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 0, "status": "Finalist"}
+        {"position": 5, "player": "SAAIJROO", "clubTag": "STWA", "points": 1350, "status": ""},
+        {"position": 6, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1210, "status": ""},
+        {"position": 7, "player": "MC_DELLA", "clubTag": "BYTE", "points": 470, "status": ""},
+        {"position": 8, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 460, "status": ""}
       ]
     },
     {
@@ -229,11 +226,407 @@
         {"position": 2, "player": "HUEBSCH_AF", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 3, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
         {"position": 4, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 1420, "status": "Finalist"},
-        {"position": 5, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1390, "status": "Finalist"},
-        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1150, "status": "Finalist"},
-        {"position": 7, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1110, "status": "Finalist"},
-        {"position": 8, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 740, "status": "Finalist"}
+        {"position": 5, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1390, "status": ""},
+        {"position": 6, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1150, "status": ""},
+        {"position": 7, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1110, "status": ""},
+        {"position": 8, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 740, "status": ""}
       ]
+    },
+    {
+      "id": 14,
+      "date": "14.01.2026",
+      "winner": "MACDOUKEN",
+      "bestTime": "1:11.869",
+      "bestTimePlayer": "FAILLORDXD",
+      "image": "cup titelbilder/cup14.jpg",
+      "results": [
+        {"position": 1, "player": "MACDOUKEN", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
+        {"position": 2, "player": "REALEPIPHANY", "clubTag": "MEOW", "points": 1420, "status": "Winner"},
+        {"position": 3, "player": "CONSPIRIA", "clubTag": "BYTE", "points": 1420, "status": "Winner"},
+        {"position": 4, "player": "FRANKFURT.HBF", "clubTag": "F", "points": 1420, "status": "Finalist"},
+        {"position": 5, "player": "DENNY_SIUS", "clubTag": "BYTE", "points": 1420, "status": "Finalist"},
+        {"position": 6, "player": "FAILLORDXD", "clubTag": "BYTE", "points": 1270, "status": ""},
+        {"position": 7, "player": "OXIRT", "clubTag": "", "points": 990, "status": ""},
+        {"position": 8, "player": "JJURIJJ", "clubTag": "BYTE", "points": 720, "status": ""},
+        {"position": 9, "player": "HUEBSCH_AF", "clubTag": "WPT", "points": 580, "status": ""},
+        {"position": 10, "player": "WALLHATER", "clubTag": "FWMC", "points": 490, "status": ""},
+        {"position": 11, "player": "PUTZERFISCH187", "clubTag": "STWA", "points": 380, "status": ""},
+        {"position": 12, "player": "BRATHERING_TM", "clubTag": "STWA", "points": 130, "status": ""}
+      ]
+    },
+
+    {
+  "id": 15,
+  "date": "21.01.2026",
+  "winner": "HUEBSCH_AF",
+  "bestTime": "0:39.521",
+  "bestTimePlayer": "HUEBSCH_AF",
+  "image": "cup titelbilder/cup15.jpg",
+  "results": [
+    {
+      "position": 1,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "EVI_420",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "TEQAL-TM",
+      "clubTag": "STWA",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 5,
+      "player": "FRANKFURT.HBF",
+      "clubTag": "BYTE",
+      "points": 1410,
+      "status": ""
+    },
+    {
+      "position": 6,
+      "player": "ITSARTCORE",
+      "clubTag": "CS",
+      "points": 1230,
+      "status": ""
+    },
+    {
+      "position": 7,
+      "player": "JJURIJJ",
+      "clubTag": "BYTE",
+      "points": 860,
+      "status": ""
+    },
+    {
+      "position": 8,
+      "player": "CONSPIRIA",
+      "clubTag": "BYTE",
+      "points": 770,
+      "status": ""
+    },
+    {
+      "position": 9,
+      "player": "PUTZERFISCH187",
+      "clubTag": "STWA",
+      "points": 680,
+      "status": ""
     }
+  ]
+},
+{
+  "id": 16,
+  "date": "19.02.2026",
+  "winner": "FRANKFURT.HBF",
+  "bestTime": "N/A",
+  "bestTimePlayer": "N/A",
+  "image": "cup titelbilder/cup16.jpg",
+  "results": [
+    {
+      "position": 1,
+      "player": "FRANKFURT.HBF",
+      "clubTag": "FFM",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "TEQAL-TM",
+      "clubTag": "STWA",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 5,
+      "player": "CONSPIRIA",
+      "clubTag": "BYTE",
+      "points": 1410,
+      "status": ""
+    },
+    {
+      "position": 6,
+      "player": "PUTZERFISCH187",
+      "clubTag": "STWA",
+      "points": 1160,
+      "status": ""
+    },
+    {
+      "position": 7,
+      "player": "FAILLORDXD",
+      "clubTag": "BYTE",
+      "points": 540,
+      "status": ""
+    },
+    {
+      "position": 8,
+      "player": "BRATHERING_TM",
+      "clubTag": "STWA",
+      "points": 400,
+      "status": ""
+    }
+  ]
+},
+
+{
+  "id": 17,
+  "date": "04.02.2026",
+  "winner": "HUEBSCH_AF",
+  "bestTime": "0:47.335",
+  "bestTimePlayer": "FRANKFURT.HBF",
+  "image": "cup titelbilder/cup17.jpg",
+  "results": [
+    {
+      "position": 1,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "FRANKFURT.HBF",
+      "clubTag": "FFM",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "RACACAX",
+      "clubTag": "EKMEK",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "REALEPIPHANY",
+      "clubTag": "MEOW",
+      "points": 1400,
+      "status": ""
+    },
+    {
+      "position": 5,
+      "player": "CONSPIRIA",
+      "clubTag": "BYTE",
+      "points": 1340,
+      "status": ""
+    },
+    {
+      "position": 6,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1280,
+      "status": ""
+    },
+    {
+      "position": 7,
+      "player": "FAILLORDXD",
+      "clubTag": "BYTE",
+      "points": 1140,
+      "status": ""
+    },
+    {
+      "position": 8,
+      "player": "PUTZERFISCH187",
+      "clubTag": "STWA",
+      "points": 900,
+      "status": ""
+    },
+    {
+      "position": 9,
+      "player": "WALLHATER",
+      "clubTag": "FWMC",
+      "points": 690,
+      "status": ""
+    },
+    {
+      "position": 10,
+      "player": "MC_DELLA",
+      "clubTag": "BYTE",
+      "points": 420,
+      "status": ""
+    },
+    {
+      "position": 11,
+      "player": "JJURIJJ",
+      "clubTag": "BYTE",
+      "points": 230,
+      "status": ""
+    },
+    {
+      "position": 12,
+      "player": "BRATHERING_TM",
+      "clubTag": "STWA",
+      "points": 60,
+      "status": ""
+    },
+    {
+      "position": 13,
+      "player": "TT-BASTI",
+      "clubTag": "STWA",
+      "points": 30,
+      "status": ""
+    }
+  ]
+},
+{
+  "id": 18,
+  "date": "19.02.2026",
+  "winner": "HUEBSCH_AF",
+  "bestTime": "0:39.455",
+  "bestTimePlayer": "JUERGEN.TM",
+  "image": "cup titelbilder/cup18.jpg",
+  "results": [
+    {
+      "position": 1,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "JUERGEN.TM",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "REALEPIPHANY",
+      "clubTag": "MEOW",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "FAILLORDXD",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 5,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1350,
+      "status": ""
+    }
+  ]
+},
+{
+  "id": 19,
+  "date": "18.02.2026",
+  "winner": "REALEPIPHANY",
+  "bestTime": "0:43.995",
+  "bestTimePlayer": "REALEPIPHANY",
+  "image": "cup titelbilder/cup19.jpg",
+  "results": [
+    {
+      "position": 1,
+      "player": "REALEPIPHANY",
+      "clubTag": "MEOW",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "FAILLORDXD",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 5,
+      "player": "BRATHERING_TM",
+      "clubTag": "STWA",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 6,
+      "player": "DENNY_SIUS",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 7,
+      "player": "CONSPIRIA",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 8,
+      "player": "JJURIJJ",
+      "clubTag": "BYTE",
+      "points": 985,
+      "status": ""
+    },
+    {
+      "position": 9,
+      "player": "PUTZERFISCH187",
+      "clubTag": "STWA",
+      "points": 975,
+      "status": ""
+    },
+    {
+      "position": 10,
+      "player": "WALLHATER",
+      "clubTag": "FWMC",
+      "points": 835,
+      "status": ""
+    },
+    {
+      "position": 11,
+      "player": "MEFPEFZEF",
+      "clubTag": "BYTE",
+      "points": 735,
+      "status": ""
+    }
+  ]
+}
   ]
 }
