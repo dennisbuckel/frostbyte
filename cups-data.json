@@ -627,6 +627,108 @@
       "status": ""
     }
   ]
+}, 
+
+{
+  "id": 20,
+  "date": "25.02.2026",
+  "winner": "REALEPIPHANY",
+  "bestTime": "0:43.740",
+  "bestTimePlayer": "REALEPIPHANY",
+  "image": "cup titelbilder/cup20.jpg",
+  "results": [
+    {
+      "position": 1,
+      "player": "REALEPIPHANY",
+      "clubTag": "MEOW",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "FRANKFURT.HBF",
+      "clubTag": "FFM",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "ZERBREZLER2000",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 5,
+      "player": "FAILLORDXD",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 6,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1360,
+      "status": ""
+    },
+    {
+      "position": 7,
+      "player": "PUTZERFISCH187",
+      "clubTag": "STWA",
+      "points": 1345,
+      "status": ""
+    },
+    {
+      "position": 8,
+      "player": "JUERGEN.TM",
+      "clubTag": "BYTE",
+      "points": 1260,
+      "status": ""
+    },
+    {
+      "position": 9,
+      "player": "MEFPEFZEF",
+      "clubTag": "BYTE",
+      "points": 1235,
+      "status": ""
+    },
+    {
+      "position": 10,
+      "player": "WALLHATER",
+      "clubTag": "FWMC",
+      "points": 1150,
+      "status": ""
+    },
+    {
+      "position": 11,
+      "player": "OXIRT",
+      "clubTag": "BYTE",
+      "points": 1105,
+      "status": ""
+    },
+    {
+      "position": 12,
+      "player": "JJURIJJ",
+      "clubTag": "BYTE",
+      "points": 935,
+      "status": ""
+    },
+    {
+      "position": 13,
+      "player": "HUGINRABE",
+      "clubTag": "H-ET",
+      "points": 640,
+      "status": ""
+    }
+  ]
 }
   ]
 }
