@@ -4,13 +4,13 @@
       "name": "MACDOUKEN",
       "clubTag": "BYTE",
       "stats": {
-        "totalPoints": 24110,
-        "cupsPlayed": 19,
+        "totalPoints": 26247,
+        "cupsPlayed": 20,
         "wins": 2,
         "podiums": 7,
-        "avgPosition": 4.44,
+        "avgPosition": 4.65,
         "bestPosition": 1,
-        "worstPosition": 9
+        "worstPosition": 8
       },
       "bestTimes": [
         {
@@ -109,6 +109,16 @@
           "cupId": 20,
           "position": 6,
           "points": 1360
+        },
+        {
+          "cupId": 21,
+          "position": 6,
+          "points": 1155
+        },
+        {
+          "cupId": 22,
+          "position": 7,
+          "points": 982
         }
       ]
     },
@@ -116,11 +126,11 @@
       "name": "HUEBSCH_AF",
       "clubTag": "WPT",
       "stats": {
-        "totalPoints": 23260,
-        "cupsPlayed": 17,
+        "totalPoints": 24680,
+        "cupsPlayed": 18,
         "wins": 4,
-        "podiums": 13,
-        "avgPosition": 2.71,
+        "podiums": 14,
+        "avgPosition": 2.67,
         "bestPosition": 1,
         "worstPosition": 9
       },
@@ -221,6 +231,11 @@
           "cupId": 20,
           "position": 3,
           "points": 1420
+        },
+        {
+          "cupId": 22,
+          "position": 2,
+          "points": 1420
         }
       ]
     },
@@ -228,13 +243,13 @@
       "name": "FAILLORDXD",
       "clubTag": "BYTE",
       "stats": {
-        "totalPoints": 20210,
-        "cupsPlayed": 16,
+        "totalPoints": 21838,
+        "cupsPlayed": 18,
         "wins": 1,
         "podiums": 4,
-        "avgPosition": 4.88,
+        "avgPosition": 5.39,
         "bestPosition": 1,
-        "worstPosition": 8
+        "worstPosition": 10
       },
       "bestTimes": [
         {
@@ -333,6 +348,16 @@
           "cupId": 20,
           "position": 5,
           "points": 1420
+        },
+        {
+          "cupId": 21,
+          "position": 10,
+          "points": 889
+        },
+        {
+          "cupId": 22,
+          "position": 9,
+          "points": 739
         }
       ]
     },
@@ -340,11 +365,11 @@
       "name": "TEQAL-TM",
       "clubTag": "STWA",
       "stats": {
-        "totalPoints": 7460,
-        "cupsPlayed": 6,
+        "totalPoints": 8686,
+        "cupsPlayed": 7,
         "wins": 1,
         "podiums": 3,
-        "avgPosition": 4,
+        "avgPosition": 4.14,
         "bestPosition": 1,
         "worstPosition": 10
       },
@@ -379,6 +404,11 @@
           "cupId": 16,
           "position": 2,
           "points": 1420
+        },
+        {
+          "cupId": 22,
+          "position": 5,
+          "points": 1226
         }
       ]
     },
@@ -386,11 +416,11 @@
       "name": "BRATHERING_TM",
       "clubTag": "STWA",
       "stats": {
-        "totalPoints": 12580,
-        "cupsPlayed": 12,
+        "totalPoints": 14564,
+        "cupsPlayed": 14,
         "wins": 0,
         "podiums": 0,
-        "avgPosition": 6.67,
+        "avgPosition": 6.86,
         "bestPosition": 4,
         "worstPosition": 12
       },
@@ -455,6 +485,16 @@
           "cupId": 19,
           "position": 5,
           "points": 1420
+        },
+        {
+          "cupId": 21,
+          "position": 8,
+          "points": 1020
+        },
+        {
+          "cupId": 22,
+          "position": 8,
+          "points": 964
         }
       ]
     },
@@ -483,11 +523,11 @@
       "name": "CONSPIRIA",
       "clubTag": "BYTE",
       "stats": {
-        "totalPoints": 21740,
-        "cupsPlayed": 17,
+        "totalPoints": 22894,
+        "cupsPlayed": 18,
         "wins": 1,
         "podiums": 3,
-        "avgPosition": 5.47,
+        "avgPosition": 5.5,
         "bestPosition": 1,
         "worstPosition": 10
       },
@@ -577,6 +617,11 @@
           "cupId": 19,
           "position": 7,
           "points": 1420
+        },
+        {
+          "cupId": 22,
+          "position": 6,
+          "points": 1154
         }
       ]
     },
@@ -655,13 +700,13 @@
       "name": "PUTZERFISCH187",
       "clubTag": "STWA",
       "stats": {
-        "totalPoints": 14190,
-        "cupsPlayed": 16,
+        "totalPoints": 15565,
+        "cupsPlayed": 18,
         "wins": 0,
         "podiums": 0,
-        "avgPosition": 8.25,
+        "avgPosition": 8.61,
         "bestPosition": 6,
-        "worstPosition": 11
+        "worstPosition": 14
       },
       "bestTimes": [],
       "cupHistory": [
@@ -744,6 +789,16 @@
           "cupId": 20,
           "position": 7,
           "points": 1345
+        },
+        {
+          "cupId": 21,
+          "position": 9,
+          "points": 994
+        },
+        {
+          "cupId": 22,
+          "position": 14,
+          "points": 381
         }
       ]
     },
@@ -819,13 +874,13 @@
       "name": "SAAIJROO",
       "clubTag": "STWA",
       "stats": {
-        "totalPoints": 2730,
-        "cupsPlayed": 2,
+        "totalPoints": 3213,
+        "cupsPlayed": 4,
         "wins": 0,
         "podiums": 0,
-        "avgPosition": 5,
+        "avgPosition": 9.25,
         "bestPosition": 5,
-        "worstPosition": 5
+        "worstPosition": 15
       },
       "bestTimes": [],
       "cupHistory": [
@@ -838,6 +893,16 @@
           "cupId": 12,
           "position": 5,
           "points": 1350
+        },
+        {
+          "cupId": 21,
+          "position": 12,
+          "points": 430
+        },
+        {
+          "cupId": 22,
+          "position": 15,
+          "points": 53
         }
       ]
     },
@@ -866,11 +931,11 @@
       "name": "REALEPIPHANY",
       "clubTag": "MEOW",
       "stats": {
-        "totalPoints": 14180,
-        "cupsPlayed": 10,
-        "wins": 5,
-        "podiums": 9,
-        "avgPosition": 1.8,
+        "totalPoints": 17020,
+        "cupsPlayed": 12,
+        "wins": 6,
+        "podiums": 11,
+        "avgPosition": 1.75,
         "bestPosition": 1,
         "worstPosition": 4
       },
@@ -899,6 +964,16 @@
           "cupId": 20,
           "time": "0:43.740",
           "date": "25.02.2026"
+        },
+        {
+          "cupId": 21,
+          "time": "0:48.378",
+          "date": "11.03.2026"
+        },
+        {
+          "cupId": 22,
+          "time": "0:35.050",
+          "date": "18.03.2026"
         }
       ],
       "cupHistory": [
@@ -949,6 +1024,16 @@
         },
         {
           "cupId": 20,
+          "position": 1,
+          "points": 1420
+        },
+        {
+          "cupId": 21,
+          "position": 2,
+          "points": 1420
+        },
+        {
+          "cupId": 22,
           "position": 1,
           "points": 1420
         }
@@ -1051,11 +1136,11 @@
       "name": "ZERBREZLER2000",
       "clubTag": "BYTE",
       "stats": {
-        "totalPoints": 4260,
-        "cupsPlayed": 3,
-        "wins": 1,
-        "podiums": 2,
-        "avgPosition": 2.33,
+        "totalPoints": 5680,
+        "cupsPlayed": 4,
+        "wins": 2,
+        "podiums": 3,
+        "avgPosition": 2,
         "bestPosition": 1,
         "worstPosition": 4
       },
@@ -1081,6 +1166,11 @@
           "cupId": 20,
           "position": 4,
           "points": 1420
+        },
+        {
+          "cupId": 21,
+          "position": 1,
+          "points": 1420
         }
       ]
     },
@@ -1088,15 +1178,20 @@
       "name": "FRANKFURT.HBF",
       "clubTag": "FFM",
       "stats": {
-        "totalPoints": 12770,
-        "cupsPlayed": 9,
-        "wins": 2,
-        "podiums": 7,
-        "avgPosition": 2.67,
+        "totalPoints": 18334,
+        "cupsPlayed": 13,
+        "wins": 3,
+        "podiums": 10,
+        "avgPosition": 2.69,
         "bestPosition": 1,
         "worstPosition": 5
       },
       "bestTimes": [
+        {
+          "cupId": 8,
+          "time": "0:13.490",
+          "date": "18.12.2024"
+        },
         {
           "cupId": 11,
           "time": "0:44.792",
@@ -1112,6 +1207,16 @@
         {
           "cupId": 7,
           "position": 3,
+          "points": 1420
+        },
+        {
+          "cupId": 8,
+          "position": 3,
+          "points": 1420
+        },
+        {
+          "cupId": 9,
+          "position": 1,
           "points": 1420
         },
         {
@@ -1153,64 +1258,16 @@
           "cupId": 20,
           "position": 2,
           "points": 1420
-        }
-      ]
-    },
-    "FFM.069.CHOOO": {
-      "name": "FFM.069.CHOOO",
-      "clubTag": "BYTE",
-      "stats": {
-        "totalPoints": 2840,
-        "cupsPlayed": 2,
-        "wins": 1,
-        "podiums": 2,
-        "avgPosition": 2,
-        "bestPosition": 1,
-        "worstPosition": 3
-      },
-      "bestTimes": [
+        },
         {
-          "cupId": 8,
-          "time": "0:13.490",
-          "date": "18.12.2024"
-        }
-      ],
-      "cupHistory": [
-        {
-          "cupId": 8,
+          "cupId": 21,
           "position": 3,
           "points": 1420
         },
         {
-          "cupId": 9,
-          "position": 1,
-          "points": 1420
-        }
-      ]
-    },
-    "EVI_420": {
-      "name": "EVI_420",
-      "clubTag": "BYTE",
-      "stats": {
-        "totalPoints": 2840,
-        "cupsPlayed": 2,
-        "wins": 0,
-        "podiums": 1,
-        "avgPosition": 3,
-        "bestPosition": 2,
-        "worstPosition": 9
-      },
-      "bestTimes": [],
-      "cupHistory": [
-        {
-          "cupId": 12,
+          "cupId": 22,
           "position": 4,
-          "points": 1420
-        },
-        {
-          "cupId": 15,
-          "position": 2,
-          "points": 1420
+          "points": 1304
         }
       ]
     },
@@ -1245,15 +1302,46 @@
         }
       ]
     },
+    "EVI_420": {
+      "name": "EVI_420",
+      "clubTag": "BYTE",
+      "stats": {
+        "totalPoints": 4260,
+        "cupsPlayed": 3,
+        "wins": 0,
+        "podiums": 1,
+        "avgPosition": 3.33,
+        "bestPosition": 2,
+        "worstPosition": 4
+      },
+      "bestTimes": [],
+      "cupHistory": [
+        {
+          "cupId": 12,
+          "position": 4,
+          "points": 1420
+        },
+        {
+          "cupId": 15,
+          "position": 2,
+          "points": 1420
+        },
+        {
+          "cupId": 21,
+          "position": 4,
+          "points": 1420
+        }
+      ]
+    },
     "OXIRT": {
       "name": "OXIRT",
       "clubTag": "BYTE",
       "stats": {
-        "totalPoints": 2095,
-        "cupsPlayed": 2,
+        "totalPoints": 2740,
+        "cupsPlayed": 3,
         "wins": 0,
         "podiums": 0,
-        "avgPosition": 9,
+        "avgPosition": 9.67,
         "bestPosition": 7,
         "worstPosition": 11
       },
@@ -1268,6 +1356,11 @@
           "cupId": 20,
           "position": 11,
           "points": 1105
+        },
+        {
+          "cupId": 22,
+          "position": 11,
+          "points": 645
         }
       ]
     },
@@ -1275,13 +1368,13 @@
       "name": "WALLHATER",
       "clubTag": "FWMC",
       "stats": {
-        "totalPoints": 3165,
-        "cupsPlayed": 4,
+        "totalPoints": 4739,
+        "cupsPlayed": 6,
         "wins": 0,
         "podiums": 0,
-        "avgPosition": 9.75,
-        "bestPosition": 9,
-        "worstPosition": 10
+        "avgPosition": 9.83,
+        "bestPosition": 7,
+        "worstPosition": 13
       },
       "bestTimes": [],
       "cupHistory": [
@@ -1304,6 +1397,16 @@
           "cupId": 20,
           "position": 10,
           "points": 1150
+        },
+        {
+          "cupId": 21,
+          "position": 7,
+          "points": 1113
+        },
+        {
+          "cupId": 22,
+          "position": 13,
+          "points": 461
         }
       ]
     },
@@ -1332,10 +1435,10 @@
       "name": "RACACAX",
       "clubTag": "EKMEK",
       "stats": {
-        "totalPoints": 1420,
-        "cupsPlayed": 1,
+        "totalPoints": 2840,
+        "cupsPlayed": 2,
         "wins": 0,
-        "podiums": 1,
+        "podiums": 2,
         "avgPosition": 3,
         "bestPosition": 3,
         "worstPosition": 3
@@ -1344,6 +1447,11 @@
       "cupHistory": [
         {
           "cupId": 17,
+          "position": 3,
+          "points": 1420
+        },
+        {
+          "cupId": 22,
           "position": 3,
           "points": 1420
         }
@@ -1385,12 +1493,12 @@
       "name": "MEFPEFZEF",
       "clubTag": "BYTE",
       "stats": {
-        "totalPoints": 1970,
-        "cupsPlayed": 2,
+        "totalPoints": 3907,
+        "cupsPlayed": 4,
         "wins": 0,
         "podiums": 0,
-        "avgPosition": 10,
-        "bestPosition": 9,
+        "avgPosition": 8.75,
+        "bestPosition": 5,
         "worstPosition": 11
       },
       "bestTimes": [],
@@ -1404,6 +1512,16 @@
           "cupId": 20,
           "position": 9,
           "points": 1235
+        },
+        {
+          "cupId": 21,
+          "position": 5,
+          "points": 1270
+        },
+        {
+          "cupId": 22,
+          "position": 10,
+          "points": 667
         }
       ]
     },
@@ -1427,11 +1545,53 @@
           "points": 640
         }
       ]
+    },
+    "OUTYTM": {
+      "name": "OUTYTM",
+      "clubTag": "ADHD",
+      "stats": {
+        "totalPoints": 565,
+        "cupsPlayed": 1,
+        "wins": 0,
+        "podiums": 0,
+        "avgPosition": 11,
+        "bestPosition": 11,
+        "worstPosition": 11
+      },
+      "bestTimes": [],
+      "cupHistory": [
+        {
+          "cupId": 21,
+          "position": 11,
+          "points": 565
+        }
+      ]
+    },
+    "ISHOWFULLSPEED": {
+      "name": "ISHOWFULLSPEED",
+      "clubTag": "NN",
+      "stats": {
+        "totalPoints": 566,
+        "cupsPlayed": 1,
+        "wins": 0,
+        "podiums": 0,
+        "avgPosition": 12,
+        "bestPosition": 12,
+        "worstPosition": 12
+      },
+      "bestTimes": [],
+      "cupHistory": [
+        {
+          "cupId": 22,
+          "position": 12,
+          "points": 566
+        }
+      ]
     }
   },
   "meta": {
-    "lastUpdated": "2026-03-02",
-    "totalPlayers": 29,
-    "totalCups": 20
+    "lastUpdated": "2026-03-21",
+    "totalPlayers": 30,
+    "totalCups": 21
   }
 }
