@@ -97,15 +97,6 @@
       ]
     },
     {
-      "id": 6,
-      "date": "04.12.2024",
-      "winner": "TBD",
-      "bestTime": "N/A",
-      "bestTimePlayer": "N/A",
-      "image": "cup titelbilder/cup6.jpg",
-      "results": []
-    },
-    {
       "id": 7,
       "date": "11.12.2024",
       "winner": "REALEPIPHANY",
@@ -937,6 +928,266 @@
       "player": "SAAIJROO",
       "clubTag": "STWA",
       "points": 53,
+      "status": ""
+    }
+  ]
+},
+
+{
+  "id": 23,
+  "date": "25.03.2026",
+  "winner": "REALEPIPHANY",
+  "bestTime": "0:43.228",
+  "bestTimePlayer": "MACDOUKEN",
+  "image": "cup titelbilder/cup23.png",
+  "results": [
+    {
+      "position": 1,
+      "player": "REALEPIPHANY",
+      "clubTag": "MEOW",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "FRANKFURT.HBF",
+      "clubTag": "FFM",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "SCEPTICHAMSTER",
+      "clubTag": "STWA",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 5,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 6,
+      "player": "ZERBREZLER2000",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 7,
+      "player": "CONSPIRIA",
+      "clubTag": "BYTE",
+      "points": 1317,
+      "status": ""
+    },
+    {
+      "position": 8,
+      "player": "ZAZURIN",
+      "clubTag": "STWA",
+      "points": 1070,
+      "status": ""
+    },
+    {
+      "position": 9,
+      "player": "OXIRT",
+      "clubTag": "BYTE",
+      "points": 1061,
+      "status": ""
+    },
+    {
+      "position": 10,
+      "player": "WALLHATER",
+      "clubTag": "FWMC",
+      "points": 1028,
+      "status": ""
+    },
+    {
+      "position": 11,
+      "player": "RUDY._.TM",
+      "clubTag": "STWA",
+      "points": 1020,
+      "status": ""
+    },
+    {
+      "position": 12,
+      "player": "BRATHERING_TM",
+      "clubTag": "STWA",
+      "points": 891,
+      "status": ""
+    },
+    {
+      "position": 13,
+      "player": "APOTM2",
+      "clubTag": "EVP",
+      "points": 731,
+      "status": ""
+    },
+    {
+      "position": 14,
+      "player": "TRIXICAT",
+      "clubTag": "STWA",
+      "points": 615,
+      "status": ""
+    },
+    {
+      "position": 15,
+      "player": "SHIQQY420",
+      "clubTag": "STWA",
+      "points": 567,
+      "status": ""
+    },
+    {
+      "position": 16,
+      "player": "PUTZERFISCH187",
+      "clubTag": "STWA",
+      "points": 551,
+      "status": ""
+    }
+  ]
+},
+
+{
+  "id": 24,
+  "date": "01.04.2026",
+  "winner": "REALEPIPHANY",
+  "bestTime": "0:42.280",
+  "bestTimePlayer": "REALEPIPHANY",
+  "image": "cup titelbilder/cup24.png",
+  "results": [
+    {
+      "position": 1,
+      "player": "REALEPIPHANY",
+      "clubTag": "MEOW",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "ZERBREZLER2000",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "FAILLORDXD",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 5,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 6,
+      "player": "MONTI_91",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 7,
+      "player": "SCEPTICHAMSTER",
+      "clubTag": "BYTE",
+      "points": 1415,
+      "status": ""
+    },
+    {
+      "position": 8,
+      "player": "CONSPIRIA",
+      "clubTag": "BYTE",
+      "points": 1340,
+      "status": ""
+    },
+    {
+      "position": 9,
+      "player": "WALLHATER",
+      "clubTag": "FWMC",
+      "points": 1145,
+      "status": ""
+    },
+    {
+      "position": 10,
+      "player": "MEFPEFZEF",
+      "clubTag": "BYTE",
+      "points": 520,
+      "status": ""
+    },
+    {
+      "position": 11,
+      "player": "ZAZURIN",
+      "clubTag": "BYTE",
+      "points": 391,
+      "status": ""
+    },
+    {
+      "position": 12,
+      "player": "JOTHAN518",
+      "clubTag": "--",
+      "points": 276,
+      "status": ""
+    },
+    {
+      "position": 13,
+      "player": "C1UMSYSSLOTH",
+      "clubTag": "--",
+      "points": 252,
+      "status": ""
+    },
+    {
+      "position": 14,
+      "player": "TEQAL-TM",
+      "clubTag": "STWA",
+      "points": 210,
+      "status": ""
+    },
+    {
+      "position": 15,
+      "player": "PUTZERFISCH187",
+      "clubTag": "STWA",
+      "points": 54,
+      "status": ""
+    },
+    {
+      "position": 16,
+      "player": "TRIXICAT",
+      "clubTag": "STWA",
+      "points": 50,
+      "status": ""
+    },
+    {
+      "position": 17,
+      "player": "BRATHERING_TM",
+      "clubTag": "STWA",
+      "points": 20,
+      "status": ""
+    },
+    {
+      "position": 18,
+      "player": "OUTYTM",
+      "clubTag": "ADHD",
+      "points": 8,
       "status": ""
     }
   ]
