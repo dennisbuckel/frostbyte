@@ -529,6 +529,13 @@
       "clubTag": "BYTE",
       "points": 1350,
       "status": ""
+    },
+    {
+      "position": 6,
+      "player": "CONSPIRIA",
+      "clubTag": "BYTE",
+      "points": 1250,
+      "status": ""
     }
   ]
 },
@@ -1188,6 +1195,115 @@
       "player": "OUTYTM",
       "clubTag": "ADHD",
       "points": 8,
+      "status": ""
+    }
+  ]
+},
+
+{
+  "id": 25,
+  "date": "08.04.2026",
+  "winner": "REALEPIPHANY",
+  "bestTime": "0:41.724",
+  "bestTimePlayer": "REALEPIPHANY",
+  "image": "cup titelbilder/cup25.png",
+  "results": [
+    {
+      "position": 1,
+      "player": "REALEPIPHANY",
+      "clubTag": "MEOW",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 2,
+      "player": "HUEBSCH_AF",
+      "clubTag": "WPT",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 3,
+      "player": "FRANKFURT.HBF",
+      "clubTag": "FFM",
+      "points": 1420,
+      "status": "Winner"
+    },
+    {
+      "position": 4,
+      "player": "MACDOUKEN",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 5,
+      "player": "CONSPIRIA",
+      "clubTag": "BYTE",
+      "points": 1420,
+      "status": "Finalist"
+    },
+    {
+      "position": 6,
+      "player": "OXIRT",
+      "clubTag": "BYTE",
+      "points": 1293,
+      "status": ""
+    },
+    {
+      "position": 7,
+      "player": "BRATHERING_TM",
+      "clubTag": "STWA",
+      "points": 1152,
+      "status": ""
+    },
+    {
+      "position": 8,
+      "player": "TEQAL-TM",
+      "clubTag": "STWA",
+      "points": 990,
+      "status": ""
+    },
+    {
+      "position": 9,
+      "player": "TRIXICAT",
+      "clubTag": "STWA",
+      "points": 974,
+      "status": ""
+    },
+    {
+      "position": 10,
+      "player": "MEFPEFZEF",
+      "clubTag": "BYTE",
+      "points": 963,
+      "status": ""
+    },
+    {
+      "position": 11,
+      "player": "WALLHATER",
+      "clubTag": "FWMC",
+      "points": 877,
+      "status": ""
+    },
+    {
+      "position": 12,
+      "player": "RUDY._.TM",
+      "clubTag": "STWA",
+      "points": 828,
+      "status": ""
+    },
+    {
+      "position": 13,
+      "player": "PUTZERFISCH187",
+      "clubTag": "STWA",
+      "points": 725,
+      "status": ""
+    },
+    {
+      "position": 14,
+      "player": "OUTYTM",
+      "clubTag": "STWA",
+      "points": 402,
       "status": ""
     }
   ]
